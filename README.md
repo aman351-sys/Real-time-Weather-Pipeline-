@@ -1,6 +1,9 @@
 # Real-time-Weather-Pipeline-
 
 ## Project Overview 
+●	Engineered an ETL  Pipeline ingesting data from API and exporting  analysis  ready table to PostgreSQL ,cutting
+Manual data prep. From Hours to minutes          
+
 A  real-time weather data pipeline that fetches live weather information through APIs and stores it in PostgreSQL for analysis and historical tracking.
 
 ## About me 
